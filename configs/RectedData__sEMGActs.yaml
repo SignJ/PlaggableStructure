@@ -1,0 +1,9 @@
+#将滤波处理后的信号生成成为肌电激活分数
+[Common]
+
+  #灵敏度
+  Percent=0.8
+  #
+  Decay_Rate=0.98
+  #容量
+  Capacity=3000

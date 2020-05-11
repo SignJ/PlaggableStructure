@@ -1,0 +1,6 @@
+#将CSV数据转为开始信息的设置文件
+[Common]
+  #输入CSV的存储路径
+  FilePath=../data/data_core.csv
+  #开始信息存储的位置(列数)
+  ColumnNumber=10

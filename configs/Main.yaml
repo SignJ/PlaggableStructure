@@ -1,0 +1,4 @@
+[Common]
+
+  #总的运行循环数
+  LoopCount=400000

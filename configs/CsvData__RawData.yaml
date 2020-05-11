@@ -1,0 +1,8 @@
+# 将CSV数据转为原始数据的设置文件
+[Common]
+  #输入数据的路径
+  Path=../data/data_no3.csv
+  #输入数据的列数
+  Column_Size=6
+  #输入数据的开始位置(从0开始)
+  Column_Start=0

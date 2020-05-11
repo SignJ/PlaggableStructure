@@ -1,0 +1,13 @@
+[Common]
+
+  CSVFileName=data.csv
+
+  ColumnNamesFileName=data_names.csv
+
+  CSVPath=../data/
+
+  LinesPerFile=6000
+
+  StartLine = 1
+
+  LineCount=780000

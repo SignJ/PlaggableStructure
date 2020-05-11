@@ -1,0 +1,7 @@
+#将识别结果发送给串口的输出设置文件
+[Common]
+  #串口名称
+  Serial_Port_Name=/dev/ttyUSB0
+  #波特率
+  Baudrate=115200
+

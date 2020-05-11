@@ -1,0 +1,7 @@
+#将加速度传感器的数据转换为腿部位置的设置文件
+[Common]
+  #
+  g_y_high_limit=120
+  g_y_low_limit=-120
+  #超时 ms
+  tv_usec=5

@@ -1,0 +1,6 @@
+#SEMG信号的采集设置文件
+[Common]
+  #味道等待时间的时候的等待时间,ns的单位
+  uSleep=50
+  #采样频率,1s中的采样次数
+  Sample_Frequency=1000

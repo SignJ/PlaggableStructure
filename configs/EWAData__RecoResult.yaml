@@ -1,0 +1,9 @@
+#指数移动平均针对识别结果输出的设置文件
+[Common]
+
+  #输出间隔的个数
+  Result_Period=5
+  #关节的输出截距
+  ewa_diff_joint_A=0.2
+  ewa_diff_joint_K=0.2
+  ewa_diff_joint_H=0.2
